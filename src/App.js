@@ -7,11 +7,11 @@ import Header from "./components/Header";
 
 function App() {
   return (
-  <>
-  <Particles/>
- <Navbar />
- <Header />
- </>
+ <div>
+<Particles/>
+<Navbar />
+<Header />
+ </div>
   );
 }
 
